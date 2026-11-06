@@ -52,6 +52,16 @@ The terminal displays the source Markdown. Your title may differ from this short
 
 On GitHub, the same headings appear at different sizes and task markers become checkboxes.
 
+## Contributing
+
+This project 
+## Support
+
+If you have any issues make sure to go to this link: 
+## License
+
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
+
 ## Project files
 
 | File | Purpose |
