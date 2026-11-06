@@ -17,5 +17,5 @@ $$
 p = \frac{c}{t} \times 100
 $$
 
-t and p are variables
+c, t, and p are variables
 
