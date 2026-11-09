@@ -54,10 +54,10 @@ On GitHub, the same headings appear at different sizes and task markers become c
 
 ## Contributing
 
-This project 
+To create a branch you first have to go to files and select new branch. When clicking new branch, rename it to whatever you want it to be and click enter. When making a pull request, go all the way to the top of Github where it has its bar of different sections such as code, issues, and pull requests. Go to pull requests and click the plus button to create a pull request. Provide a name and a description before sending it over.
 ## Support
 
-If you have any issues make sure to go to this link: 
+If you have any issues make sure to go to this link: [issues tab](../Issues)
 ## License
 
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
