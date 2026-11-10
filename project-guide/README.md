@@ -71,7 +71,7 @@ This project is distributed under the [MIT License](../LICENSE). Read the licens
 
 ## Troubleshooting
 
-cat: day-1.md: No such file or directory
+One problem that may occur is "cat: day-1.md: No such file or directory". One solution for this is by entering the cloned repository folder and checking that the journal exists on the selected branch.
 
 ## Review checklist
 
